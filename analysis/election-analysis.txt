@@ -1,0 +1,18 @@
+
+Election Results
+-------------------------
+Toatl Votes: 369,711
+--------------------------
+Charles Casper Stockham:  23.048543% (85,213
+f----------------------
+Winner: Charles Casper Stockham
+Winning Vote Count: 85,213
+Winning Percentage :23.048543%
+-----------------------
+Diana DeGette:  73.812248% (272,892
+f----------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage :73.812248%
+-----------------------
+Raymon Anthony Doane:  3.139209% (11,606
