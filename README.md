@@ -14,20 +14,22 @@ A colorado board of Election employee has given you the following tasks to compl
 
 ## Summary
 The analysis of the election shows that:
--There were "369,711" votes cast in the election.
--The candidates were:
-Jefferson
-Denver
-Arapahoe
+- There were "369,711" votes cast in the election.
+### The candidates were:
+- Jefferson
+- Denver
+- Arapahoe
 
--The candidate results were:
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+### The candidate results were:
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
 
- -The winner of the election was:
- Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
+ ### The winner of the election was:
+ - Winner: Diana DeGette
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
   
+ ## Election Summary
+ the  python code provide can be used for state wide election
  
